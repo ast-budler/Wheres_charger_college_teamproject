@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"/>
-<style type="text/css"></style>
+<link rel="stylesheet" href="/resources/CSS/css.css">
 <title>Youre in main page</title>
 </head>
 <body>
